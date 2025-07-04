@@ -1,6 +1,6 @@
 
 export const getUsername = ()=>{
-    return localStorage.getItem('UserName');
+    return localStorage.getItem('Username');
 }
 
 export const getTasks = ()=>{
